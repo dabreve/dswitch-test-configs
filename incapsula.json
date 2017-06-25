@@ -1,0 +1,74 @@
+{
+  "name": "Incapsula",
+  "key": "ed51d753-205c-49a6-8cdf-e428fc26e6a7",
+  "rules": {
+    "0": {
+      "active": true,
+      "to": "g66qscj.x.incapdns.net",
+      "from": "ams.oup.com",
+      "key": "574148aa-0050-4705-a766-f9a830df275a"
+    },
+    "1": {
+      "active": true,
+      "to": "av3diub.x.incapdns.net",
+      "from": "www.anb.org",
+      "key": "77bd58df-a074-49b9-900a-575cea6e99d7"
+    },
+    "2": {
+      "active": true,
+      "to": "av3diub.x.incapdns.net",
+      "from": "anb.org",
+      "key": "a354b4a1-88f6-4790-b61f-362ffb38dbe7"
+    },
+    "3": {
+      "active": true,
+      "to": "zewtjyh.x.incapdns.net",
+      "from": "www.oxfordislamicstudies.com",
+      "key": "f8a468f3-d79b-4c13-9562-295934b1a7b2"
+    },
+    "4": {
+      "active": true,
+      "to": "ncgn8hk.x.incapdns.net",
+      "from": "www.oxfordbiblicalstudies.com",
+      "key": "b281bd34-a671-47cd-abd0-1b125b5df21e"
+    },
+    "5": {
+      "active": true,
+      "to": "tm6n7dm.x.incapdns.net",
+      "from": "www.oxfordartonline.com",
+      "key": "614da414-dabf-4d31-91cf-1a83be63fc43"
+    },
+    "6": {
+      "active": true,
+      "to": "842qtym.x.incapdns.net",
+      "from": "www.oxfordmusiconline.com",
+      "key": "c1da0f44-82f7-4cdb-aa4b-1b44729a06bd"
+    },
+    "7": {
+      "active": true,
+      "to": "qnk3hb3.x.incapdns.net",
+      "from": "www.oxfordaasc.com",
+      "key": "23050d6d-6a83-47c8-bade-0cdc95fc8d2a"
+    },
+    "8": {
+      "active": true,
+      "to": "ewrmwth.x.incapdns.net",
+      "from": "www.oxforddnb.com",
+      "key": "2a4a02ed-c9df-4e51-ad06-96509b483896"
+    },
+    "9": {
+      "active": true,
+      "to": "ncgn8hk.x.incapdns.net",
+      "from": "live.oxfordbiblicalstudies.com",
+      "key": "5f00ea6a-db00-4301-b084-718c230daab9"
+    },
+    "10": {
+      "active": true,
+      "to": "eu6ztgg.x.incapdns.net",
+      "from": "www.ukwhoswho.com",
+      "key": "6a0ae456-9e9a-421f-b08f-742be7478778"
+    },
+    "class": "KeyedObjectArray",
+    "length": 11
+  }
+}
